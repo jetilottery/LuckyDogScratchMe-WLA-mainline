@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "channel1.m4a",
+    "channel1.mp3",
+    "channel1.ogg"
+  ],
+  "sprite": {
+    "ButtonBetUp": [
+      0,
+      191.2925170068027
+    ],
+    "ButtonBetDown": [
+      1050,
+      238.59410430839011
+    ],
+    "HelpPageOpen": [
+      2100,
+      1919.7732426303858
+    ],
+    "Reveal1": [
+      4150,
+      1257.301587301587
+    ]
+  }
+}

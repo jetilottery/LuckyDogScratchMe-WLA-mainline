@@ -1,0 +1,100 @@
+{
+    "version": "5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Yes",
+        "no": "No",
+        "confirm": "Would you like sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}."
+    },
+    "title": "Lucky Dog Scratch Me",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "How to Play",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+			"button_autoPlay": "AUTO PLAY",
+			"title_autoPlay": "Auto Play",
+            "prizeDivision": "Prize Division",
+			"prizeValue": "Prize Value",
+			"approximatePrize": "Approximate Prizes Remaining",
+			"oddsPerPlay": "Odds Per Play",
+            "overAllOdds": "There is a 1 in {oddNum} overall chance of winning a prize on each play.",
+            "availablePrices": "Available Price Points:{prices}"
+        },
+        "Commercial": {
+            "howToPlay": "How to Play",
+            "payTable": "Paytable",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+			"button_autoPlay":"REVEAL ALL",
+			"title_autoPlay": "Reveal All"
+        },
+        "audio": {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+    "Error": {
+        "error29000": "Error:29000\n\nThere has been an internal error.\nEXIT and relaunch the game.",
+        "lostConnection": "Lost Connection!"
+    },
+    "Game": {
+        "demo": "TRY ",
+        "button_buy": "BUY",
+        "button_try": "TRY",
+        "button_continue": "CONTINUE",
+		"button_stop": "STOP",
+        "button_move2moneyGame": "MOVE TO MONEY",
+        "button_playAgain": "PLAY AGAIN",
+        "button_MTMPlayAgain": "TRY AGAIN",
+        "wager": "TICKET COST",
+        "meter_wager": "Ticket Cost: ",
+        "balance": "Balance: ",
+        "wins": "Win: ",
+        "wins_demo": "Demo Win: ",
+        "message_nonWin": "BETTER LUCK\nNEXT TIME",
+        "message_buyWin": "CONGRATULATIONS!\nYou have won",
+        "message_tryWin": "THANKS FOR PLAYING!\nYou could have won",
+        "message_anonymousTryWin": "THANKS FOR PLAYING!\nYou could have won",
+        "message_close": "OK",
+        "button_exit": "EXIT",
+        "session_timeout_warning_exit_button": "EXIT",
+        "error_button_exit": "EXIT",
+        "warning_button_continue": "CONTINUE",
+        "warning_button_exitGame": "EXIT",
+        "warning_title": "WARNING",
+        "error_title": "ERROR",
+        "win_up_to": "WIN UP TO",
+        "win_up_to_mark": "!",
+        "tutorial_title": "HOW TO PLAY",
+        "tutorial_00": "Select the DOG or the CAT to play.",
+        "tutorial_01": "Select each paw print to reveal a symbol or an instant win symbol.",
+        "tutorial_02": "Find 3 identical symbols to win the corresponding prize or find up to six instant win symbols to win a prize for each instant win symbol found!",
+		"choosePlaqueText": "SELECT THE DOG OR THE CAT TO PLAY!",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "paytableWager": "Ticket Cost: ",
+		"Description": "Description",
+		"InstantWin": "Instant Win",
+		"DescriptionA": "3 Fish or 3 Steaks",
+		"DescriptionB": "3 Cat Carriers or 3 Toy Balls",
+		"DescriptionC": "3 Cat Food cans or 3 Dog Food cans",
+		"DescriptionD": "3 Cat Bowls or 3 Dog Bowls",
+		"DescriptionE": "3 Cat Teasers or 3 Bones",
+		"DescriptionF": "3 Yarn Balls or 3 Collars",
+		"DescriptionIW": "Mouse or Hot Dog",
+		"or": "or",
+		"Symbol": "Symbol"
+    }
+}

@@ -1,0 +1,43 @@
+
+cd D:\dev\skbJET\qiaom_CPEKW-Q1100709_IW-LuckyDogScratchMe-mainline_2374\src\audio
+
+export PATH=$PATH:/c/ffmpeg/bin
+
+channel0="BaseMusicLoop.wav BaseMusicLoopTermLose.wav BaseMusicLoopTermWin1.wav BaseMusicLoopTermWin2.wav"
+
+audiosprite -o channel0 -f howler -e m4a,mp3,ogg -g 0.05 -v 9 -b 48 -r 44100 $channel0
+
+
+channel1="ButtonBetUp.wav ButtonBetDown.wav HelpPageOpen.wav Reveal1.wav"
+
+audiosprite -o channel1 -f howler -e m4a,mp3,ogg -g 0.05 -v 9 -b 48 -r 44100 $channel1
+
+
+channel2="ButtonBetUp.wav ButtonBetDown.wav ButtonGeneric.wav HelpPageClose.wav Reveal1.wav"
+
+audiosprite -o channel2 -f howler -e m4a,mp3,ogg -g 0.05 -v 9 -b 48 -r 44100 $channel2
+
+ 
+channel3="ButtonBetUp.wav ButtonBetDown.wav ButtonBetMax.wav Match1.wav Match2.wav"
+
+audiosprite -o channel3 -f howler -e m4a,mp3,ogg -g 0.05 -v 9 -b 48 -r 44100 $channel3
+
+
+channel4="Match1.wav Match2.wav InstantWin.wav"
+
+audiosprite -o channel4 -f howler -e m4a,mp3,ogg -g 0.05 -v 9 -b 48 -r 44100 $channel4
+
+
+channel5="InstantWin.wav Select1.wav Select2.wav"
+
+audiosprite -o channel5 -f howler -e m4a,mp3,ogg -g 0.05 -v 9 -b 48 -r 44100 $channel5
+
+
+channel6="InstantWin.wav"
+
+audiosprite -o channel6 -f howler -e m4a,mp3,ogg -g 0.05 -v 9 -b 48 -r 44100 $channel6
+
+
+channel7="InstantWin1.wav InstantWin2.wav ButtonGeneric.wav"
+
+audiosprite -o channel7 -f howler -e m4a,mp3,ogg -g 0.05 -v 9 -b 48 -r 44100 $channel7

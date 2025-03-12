@@ -1,0 +1,196 @@
+{"frames": {
+
+"cat.png":
+{
+	"frame": {"x":1,"y":1129,"w":334,"h":308},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":334,"h":308},
+	"sourceSize": {"w":334,"h":308}
+},
+"catFoodAnim_0000.png":
+{
+	"frame": {"x":337,"y":1129,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catFoodAnim_0001.png":
+{
+	"frame": {"x":337,"y":1217,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catFoodAnim_0002.png":
+{
+	"frame": {"x":337,"y":1305,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catFoodAnim_0003.png":
+{
+	"frame": {"x":469,"y":1129,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catFoodAnim_0004.png":
+{
+	"frame": {"x":601,"y":1129,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catFoodAnim_0005.png":
+{
+	"frame": {"x":469,"y":1217,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catFoodAnim_0006.png":
+{
+	"frame": {"x":601,"y":1217,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catFoodAnim_0007.png":
+{
+	"frame": {"x":469,"y":1305,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catFoodAnim_0008.png":
+{
+	"frame": {"x":601,"y":1305,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"catWinPlaque.png":
+{
+	"frame": {"x":1,"y":1,"w":800,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":562},
+	"sourceSize": {"w":800,"h":562}
+},
+"catWinPlaquePortrait.png":
+{
+	"frame": {"x":803,"y":1,"w":542,"h":866},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":542,"h":866},
+	"sourceSize": {"w":542,"h":866}
+},
+"dog.png":
+{
+	"frame": {"x":1,"y":1439,"w":352,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":276},
+	"sourceSize": {"w":352,"h":276}
+},
+"dogFoodAnim_0000.png":
+{
+	"frame": {"x":355,"y":1393,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"dogFoodAnim_0001.png":
+{
+	"frame": {"x":355,"y":1481,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"dogFoodAnim_0002.png":
+{
+	"frame": {"x":355,"y":1569,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"dogFoodAnim_0003.png":
+{
+	"frame": {"x":487,"y":1393,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"dogFoodAnim_0004.png":
+{
+	"frame": {"x":619,"y":1393,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"dogFoodAnim_0005.png":
+{
+	"frame": {"x":487,"y":1481,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"dogFoodAnim_0006.png":
+{
+	"frame": {"x":619,"y":1481,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"dogFoodAnim_0007.png":
+{
+	"frame": {"x":487,"y":1569,"w":130,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":86},
+	"sourceSize": {"w":130,"h":86}
+},
+"dogWinPlaque.png":
+{
+	"frame": {"x":1,"y":565,"w":800,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":562},
+	"sourceSize": {"w":800,"h":562}
+},
+"dogWinPlaquePortrait.png":
+{
+	"frame": {"x":803,"y":869,"w":542,"h":866},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":542,"h":866},
+	"sourceSize": {"w":542,"h":866}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "winPlaque.png",
+	"format": "RGBA8888",
+	"size": {"w":1346,"h":1736},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e16912bc7aecd83fd35f36f598c33f21:a91f331bccc6a17a8ecff516dc0c785b:3dbe974e63ecf633400d180e093e76e9$"
+}
+}

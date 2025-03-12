@@ -1,0 +1,44 @@
+{"frames": {
+
+"catTableBG.png":
+{
+	"frame": {"x":1,"y":1,"w":358,"h":484},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":358,"h":484},
+	"sourceSize": {"w":358,"h":484}
+},
+"catTableBGPortrait.png":
+{
+	"frame": {"x":1,"y":487,"w":606,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":606,"h":286},
+	"sourceSize": {"w":606,"h":286}
+},
+"dogTableBG.png":
+{
+	"frame": {"x":609,"y":289,"w":358,"h":484},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":358,"h":484},
+	"sourceSize": {"w":358,"h":484}
+},
+"dogTableBGPortrait.png":
+{
+	"frame": {"x":361,"y":1,"w":606,"h":286},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":606,"h":286},
+	"sourceSize": {"w":606,"h":286}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tableI.png",
+	"format": "RGBA8888",
+	"size": {"w":968,"h":774},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0f20977f175a8413d8793930106d3754:28876e3bf25fc78c108774ba50ea6a1d:0ce43134e0405fe84ec325692fb00b08$"
+}
+}

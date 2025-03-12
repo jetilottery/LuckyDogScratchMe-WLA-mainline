@@ -1,0 +1,36 @@
+{"frames": {
+
+"choosePlaque.png":
+{
+	"frame": {"x":603,"y":603,"w":346,"h":388},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":346,"h":388},
+	"sourceSize": {"w":346,"h":388}
+},
+"choosePlaqueBG.jpg":
+{
+	"frame": {"x":1,"y":1,"w":960,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":600},
+	"sourceSize": {"w":960,"h":600}
+},
+"choosePlaquePortraitBG.jpg":
+{
+	"frame": {"x":1,"y":603,"w":600,"h":960},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":960},
+	"sourceSize": {"w":600,"h":960}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "choosePlaqueI.png",
+	"format": "RGBA8888",
+	"size": {"w":962,"h":1564},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6aa7b8fa9126f005b34edcce60b955cc:0e3fdd1c168dec712b2e21792bf05f2c:f12bf2db4f2b49be79db9b39b62b28e2$"
+}
+}

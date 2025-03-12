@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "channel5.m4a",
+    "channel5.mp3",
+    "channel5.ogg"
+  ],
+  "sprite": {
+    "InstantWin": [
+      0,
+      2000
+    ],
+    "Select1": [
+      2050,
+      1750
+    ],
+    "Select2": [
+      4100,
+      1750
+    ]
+  }
+}

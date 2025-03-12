@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "channel4.m4a",
+    "channel4.mp3",
+    "channel4.ogg"
+  ],
+  "sprite": {
+    "Match1": [
+      0,
+      1750
+    ],
+    "Match2": [
+      2050,
+      1624.9886621315195
+    ],
+    "InstantWin": [
+      4100,
+      2000
+    ]
+  }
+}

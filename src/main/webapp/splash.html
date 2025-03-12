@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Splash</title>
+<style type="text/css">
+html,body {
+    width: 100%;
+    height:100%;
+    margin:0px auto;
+    padding:0;    
+    background: #000000;
+}
+
+#loadDiv{
+	position:absolute;
+	background-size:cover;
+}
+
+#progressBarDiv{
+	position:absolute;
+    background-repeat:no-repeat;
+	background-size: cover;
+	z-index: 100;
+}
+
+#progressDiv{
+	width:0;
+	height:100%;
+	position:absolute;
+    background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#logoDiv{
+	position:absolute;
+	background-size:contain;
+    background-repeat:no-repeat;
+}
+
+#photoDiv{
+	position:absolute;
+	background-size:contain;
+    background-repeat:no-repeat;
+}
+
+#copyRightDiv{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	font-family:Arial;
+}
+
+</style>
+</head>
+<body>
+	<div id='loadDiv'>
+		<div id='progressBarDiv'>
+			<div id='progressDiv'></div>
+		</div>
+		<div id='logoDiv'></div>
+		<div id='photoDiv'></div>
+	</div>
+	<div id='copyRightDiv'></div>
+</body>
+</html>

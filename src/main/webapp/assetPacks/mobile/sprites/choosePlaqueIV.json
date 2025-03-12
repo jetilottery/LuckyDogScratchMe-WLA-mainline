@@ -1,0 +1,92 @@
+{"frames": {
+
+"dogWindowEye_0000.png":
+{
+	"frame": {"x":1,"y":1,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0001.png":
+{
+	"frame": {"x":1,"y":325,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0002.png":
+{
+	"frame": {"x":1,"y":649,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0003.png":
+{
+	"frame": {"x":281,"y":1,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0004.png":
+{
+	"frame": {"x":281,"y":325,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0005.png":
+{
+	"frame": {"x":281,"y":649,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0006.png":
+{
+	"frame": {"x":561,"y":1,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0007.png":
+{
+	"frame": {"x":561,"y":325,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0008.png":
+{
+	"frame": {"x":561,"y":649,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+},
+"dogWindowEye_0009.png":
+{
+	"frame": {"x":841,"y":1,"w":278,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":278,"h":322},
+	"sourceSize": {"w":278,"h":322}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "choosePlaqueIV.png",
+	"format": "RGBA8888",
+	"size": {"w":1120,"h":972},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a7b2f98ded8f9a8811521c819b88bea1:6a516bac808dd59d1969e1aa2aefe821:b50d76076f2a1d6806119c92063303f8$"
+}
+}

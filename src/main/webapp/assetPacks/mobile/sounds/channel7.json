@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "channel7.m4a",
+    "channel7.mp3",
+    "channel7.ogg"
+  ],
+  "sprite": {
+    "InstantWin1": [
+      0,
+      1375.0113378684807
+    ],
+    "InstantWin2": [
+      2050,
+      939.0702947845804
+    ],
+    "ButtonGeneric": [
+      3099.9999999999995,
+      457.39229024943296
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{"frames": {
+
+"catSymbolBG.png":
+{
+	"frame": {"x":1,"y":1,"w":550,"h":444},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":444},
+	"sourceSize": {"w":550,"h":444}
+},
+"centerWinUpToBG.png":
+{
+	"frame": {"x":1,"y":1265,"w":420,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":202},
+	"sourceSize": {"w":420,"h":202}
+},
+"dogSymbolBG.png":
+{
+	"frame": {"x":1,"y":447,"w":550,"h":444},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":550,"h":444},
+	"sourceSize": {"w":550,"h":444}
+},
+"errorBG.png":
+{
+	"frame": {"x":1,"y":893,"w":540,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":370},
+	"sourceSize": {"w":540,"h":370}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plqueBG.png",
+	"format": "RGBA8888",
+	"size": {"w":552,"h":1468},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3cb812335a77495c61867d4964b4d34a:760c8fccb74f63681898aec35b3792f0:decb2f13e162924a03240bdbe1622f1f$"
+}
+}

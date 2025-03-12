@@ -1,0 +1,100 @@
+{"frames": {
+
+"catWindow_0000.png":
+{
+	"frame": {"x":1,"y":1,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0001.png":
+{
+	"frame": {"x":1,"y":325,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0002.png":
+{
+	"frame": {"x":1,"y":649,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0003.png":
+{
+	"frame": {"x":319,"y":1,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0004.png":
+{
+	"frame": {"x":319,"y":325,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0005.png":
+{
+	"frame": {"x":319,"y":649,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0006.png":
+{
+	"frame": {"x":637,"y":1,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0007.png":
+{
+	"frame": {"x":637,"y":325,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0008.png":
+{
+	"frame": {"x":637,"y":649,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0009.png":
+{
+	"frame": {"x":955,"y":1,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+},
+"catWindow_0010.png":
+{
+	"frame": {"x":955,"y":325,"w":316,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":322},
+	"sourceSize": {"w":316,"h":322}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "choosePlaqueII.png",
+	"format": "RGBA8888",
+	"size": {"w":1272,"h":972},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b1c65b1c76452fb8d16c9030c036673c:e98b7077f1aa783a4879680e98ba2919:5940ca2722d8dfc4885ab8b24c8d4e0f$"
+}
+}

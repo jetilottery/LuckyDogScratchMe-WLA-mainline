@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "channel6.m4a",
+    "channel6.mp3",
+    "channel6.ogg"
+  ],
+  "sprite": {
+    "InstantWin": [
+      0,
+      2000
+    ]
+  }
+}
